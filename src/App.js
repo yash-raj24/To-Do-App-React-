@@ -28,7 +28,7 @@ const App = () => {
       <div>
         <input
           type="text"
-          placeholder="Add Task"
+          placeholder="Add Task here"
           className="input"
           onChange={itemEvent}
           value={inputList}
